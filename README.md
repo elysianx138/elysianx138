@@ -62,7 +62,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=elysianx138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" height="180" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elysianx138&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" height="180" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elysianx138&theme=tokyonight&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=elysianx138&theme=tokyonight&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=elysianx138&theme=tokyonight&no-frame=true&column=7&margin-w=15&bg_color=0D1117&title_color=FFFFFF)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -144,6 +154,29 @@ me.say_hi()
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![elysianx138's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elysianx138&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📊 Weekly Development Stats
+
+<div align="center">
+
+<!-- 💡 提示：注册 WakaTime (https://wakatime.com) 并关联 GitHub，然后取消下面注释即可显示每周编码统计 -->
+<!--
+[![wakatime](https://wakatime.com/badge/user/elysianx138.svg)](https://wakatime.com/@elysianx138)
+-->
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -162,6 +195,12 @@ me.say_hi()
 
 ### ⭐ *If you love my projects, don't forget to star!* ⭐
 
-<img src="https://raw.githubusercontent.com/elysianx138/elysianx138/output/snake.svg" alt="Snake animation" />
+<!-- 🐍 需要先在 elysianx138/elysianx138 仓库中配置 Platane/snk GitHub Action -->
+<!-- 详见: https://github.com/Platane/snk -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elysianx138/elysianx138/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elysianx138/elysianx138/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/elysianx138/elysianx138/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
