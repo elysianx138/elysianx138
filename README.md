@@ -55,24 +55,30 @@
 
 ---
 
-## 📊 GitHub Stats
+## 👤 About Me
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=elysianx138&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elysianx138&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" height="180" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=elysianx138&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=elysianx138&theme=tokyonight&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<table>
+<tr>
+<td align="center" width="100"><b>🏠 Based in</b></td>
+<td>Hong Kong 🇭🇰</td>
+<td align="center" width="100"><b>💬 Languages</b></td>
+<td>Chinese · English</td>
+</tr>
+<tr>
+<td align="center"><b>🎓 Education</b></td>
+<td>Undergraduate</td>
+<td align="center"><b>💼 Role</b></td>
+<td>AI / LLM Developer</td>
+</tr>
+<tr>
+<td align="center"><b>🎮 Hobbies</b></td>
+<td>Gaming · Twitter · Open Source · Fitness</td>
+<td align="center"><b>⚡ Fun fact</b></td>
+<td>I debug code by day, grind raids by night 🎮✨</td>
+</tr>
+</table>
 
 </div>
 
@@ -126,28 +132,12 @@ Claude Code Snippets
 
 <div align="center">
 
-<pre><code>class elysianx:
-    def __init__(self):
-        self.name      = "elysianx"
-        self.location  = "Hong Kong 🇭🇰"
-        self.focus     = ["AI/LLM", "LangChain", "RAG", "Full-Stack"]
-        self.mission   = "Making AI development accessible to everyone"
-        self.motto     = "If you love my projects, don't forget to star ❤"
-
-    def currently_learning(self):
-        return [
-            "LLM fine-tuning",
-            "DevOps & Cloud-native deployment",
-            "Advanced RAG architectures",
-            "Agent-based AI systems"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting! Feel free to explore my repos 🚀")
-
-me = elysianx()
-me.say_hi()
-</code></pre>
+| 🎯 Building | 📖 Learning |
+|---------|-------------|
+| AI / LLM Applications | LLM Fine-tuning |
+| LangChain Agents | DevOps & Cloud-native Deployment |
+| RAG Systems | Advanced RAG Architectures |
+| Full-Stack (Python + Flask) | AI Agent System Design |
 
 </div>
 
@@ -181,8 +171,8 @@ me.say_hi()
 
 ### ⭐ *If you love my projects, don't forget to star!* ⭐
 
-<!-- 🐍 需要先在 elysianx138/elysianx138 仓库中配置 Platane/snk GitHub Action -->
-<!-- 详见: https://github.com/Platane/snk -->
+<!-- 🐍 Snake animation powered by Platane/snk — requires GitHub Action setup in elysianx138/elysianx138 -->
+<!-- See: https://github.com/Platane/snk -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elysianx138/elysianx138/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elysianx138/elysianx138/output/github-contribution-grid-snake.svg">
