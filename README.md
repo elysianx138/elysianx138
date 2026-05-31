@@ -24,10 +24,11 @@
 
 - 🔭 **Currently working on** · AI Agents & RAG systems
 - 🌱 **Currently learning** · LLM fine-tuning & DevOps
-- 👯 **Looking to collaborate on** · Open-source AI/LLM projects
+- 🎓 **Education** · Undergraduate
+- 🎮 **Hobbies** · Gaming · Twitter · Open Source · Fitness
 - 💬 **Ask me about** · Python · LangChain · Flask · Linux
+- ⚡ **Fun fact** · I debug code by day, grind raids by night 🎮✨
 - 😄 **Pronouns** · she/her
-- 🎓 Love turning complex AI concepts into **beginner-friendly** projects
 - 🌏 Based in **Hong Kong** 🇭🇰
 
 > *If you love my projects, don't forget to star ⭐*
@@ -53,34 +54,6 @@
 </tr>
 </table>
 
----
-
-## 👤 About Me
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100"><b>🏠 Based in</b></td>
-<td>Hong Kong 🇭🇰</td>
-<td align="center" width="100"><b>💬 Languages</b></td>
-<td>Chinese · English</td>
-</tr>
-<tr>
-<td align="center"><b>🎓 Education</b></td>
-<td>Undergraduate</td>
-<td align="center"><b>💼 Role</b></td>
-<td>AI / LLM Developer</td>
-</tr>
-<tr>
-<td align="center"><b>🎮 Hobbies</b></td>
-<td>Gaming · Twitter · Open Source · Fitness</td>
-<td align="center"><b>⚡ Fun fact</b></td>
-<td>I debug code by day, grind raids by night 🎮✨</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
