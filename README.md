@@ -59,10 +59,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=elysianx138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=elysianx138&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" height="180" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elysianx138&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" height="180" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=elysianx138&theme=tokyonight&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=elysianx138&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=elysianx138&theme=tokyonight&no-frame=true&column=7&margin-w=15&bg_color=0D1117&title_color=FFFFFF)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=elysianx138&theme=tokyonight&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -126,8 +126,7 @@ Claude Code Snippets
 
 <div align="center">
 
-```python
-class elysianx:
+<pre><code>class elysianx:
     def __init__(self):
         self.name      = "elysianx"
         self.location  = "Hong Kong 🇭🇰"
@@ -148,7 +147,7 @@ class elysianx:
 
 me = elysianx()
 me.say_hi()
-```
+</code></pre>
 
 </div>
 
@@ -159,19 +158,6 @@ me.say_hi()
 <div align="center">
 
 [![elysianx138's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elysianx138&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 📊 Weekly Development Stats
-
-<div align="center">
-
-<!-- 💡 提示：注册 WakaTime (https://wakatime.com) 并关联 GitHub，然后取消下面注释即可显示每周编码统计 -->
-<!--
-[![wakatime](https://wakatime.com/badge/user/elysianx138.svg)](https://wakatime.com/@elysianx138)
--->
 
 </div>
 
