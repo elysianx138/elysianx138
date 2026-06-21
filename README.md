@@ -1,63 +1,31 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+elysianx;Welcome+to+my+GitHub+%F0%9F%9A%80;AI+%2F+LLM+Developer;Building+with+LangChain+%26+RAG" alt="Typing SVG" />
+# Hi, I'm elysianx 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=elysianx138&color=FFFFFF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/elysianx138)
-[![Twitter](https://img.shields.io/badge/Twitter-@johnchenmOwn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnchenmOwn)
-[![Location](https://img.shields.io/badge/Location-Hong_Kong_🇭🇰-FF6B6B?style=for-the-badge)](https://github.com/elysianx138)
+**CS Undergraduate · Open Source Contributor · AI Infra Learner**
+
+Based in Hong Kong 🇭🇰 · Building AI applications with Python & LangChain
 
 </div>
 
 ---
 
-<div align="center">
+## 🤝 Open Source Contributions
 
-### 🧠 *"Code is poetry in logic — I write verses that machines understand."*
+*Code merged into projects I don't own — the contributions I'm most proud of.*
 
-</div>
+| Project | PR | Status |
+|---------|-----|--------|
+| [NovaCode37/Prism-platform](https://github.com/NovaCode37/Prism-platform) | Add `/api/health` endpoint for uptime monitoring | ✅ Merged |
+| [TianciJ/RAG-CHAT](https://github.com/TianciJ/RAG-CHAT) | Fix `config.py` + sqlite checkpoint graph compatibility | ✅ Merged |
+| [helloalp/helloalp.github.io](https://github.com/helloalp/helloalp.github.io) | Add Docker support + rewrite README | ✅ Merged |
+| [MABIN-ship-it/-cc-smart-companion](https://github.com/MABIN-ship-it/-cc-smart-companion) | Fix bilingual README wording | 🟣 Open |
 
-<table>
-<tr>
-<td width="50%">
-
-<h3>👨‍💻 About Me</h3>
-
-- 🔭 **Currently working on** · AI Agents & RAG systems
-- 🌱 **Currently learning** · LLM fine-tuning & DevOps
-- 🎓 **Education** · Undergraduate
-- 🎮 **Hobbies** · Gaming · Twitter · Open Source · Fitness
-- 💬 **Ask me about** · Python · LangChain · Flask · Linux
-- ⚡ **Fun fact** · I debug code by day, grind raids by night 🎮✨
-- 😄 **Pronouns** · she/her
-- 🌏 Based in **Hong Kong** 🇭🇰
-
-> *If you love my projects, don't forget to star ⭐*
-
-</td>
-<td width="50%">
-
-<h3>⚡ Tech Stack</h3>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</td>
-</tr>
-</table>
-
+> Currently hunting for `good first issue`s — docs, tests, and bug fixes all count. Every PR is a chance to learn from a real maintainer's review.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Pinned Projects
 
 <div align="center">
 
@@ -67,72 +35,55 @@
 <a href="https://github.com/elysianx138/elysianx.github.io">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=elysianx138&repo=elysianx.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" />
 </a>
-<a href="https://github.com/elysianx138/how-claude-code-built">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elysianx138&repo=how-claude-code-built&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/elysianx138/Linux-system-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elysianx138&repo=Linux-system-lab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/elysianx138/RAG-CHAT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elysianx138&repo=RAG-CHAT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" />
+<a href="https://github.com/elysianx138/North-star-of-CS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elysianx138&repo=North-star-of-CS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" />
 </a>
 
 </div>
 
-<table>
-<tr>
-<td width="33%">
-<h4>🤖 Chat_Agent</h4>
-LangChain Chat Agent
-<p><sub>My first LangChain project · Beginner-friendly</sub></p>
-</td>
-<td width="33%">
-<h4>🌐 elysianx.github.io</h4>
-Flask Full-Stack Site
-<p><sub>Python / Flask / HTML+CSS+JS · Learn full-stack dev</sub></p>
-</td>
-<td width="33%">
-<h4>🧠 how-claude-code-built</h4>
-Claude Code Snippets
-<p><sub>AI development reference & research code collection</sub></p>
-</td>
-</tr>
-</table>
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| **🤖 Chat_Agent** | RAG knowledge-base Q&A agent, deployed live on Railway | LangChain · FastAPI · Chroma · MCP |
+| **🌐 elysianx.github.io** | Full-stack personal site built from scratch | Python · Flask · HTML/CSS/JS |
+| **📚 North-star-of-CS** | My CS learning journal — C++, Redis, Docker, security, hands-on | C++ · Python · Redis · Docker |
 
 ---
 
 ## 🎯 Current Focus
 
+| 🛠️ Building | 📖 Learning |
+|-------------|-------------|
+| AI / LLM applications | **AI Infra** — how LLMs actually run (vLLM, SGLang, llama.cpp) |
+| RAG systems & agents | Systems fundamentals — CSAPP, CUDA basics |
+| Open source contributions | Distributed systems & inference optimization |
+
+---
+
+## ⚡ Tech Stack
+
 <div align="center">
 
-| 🎯 Building | 📖 Learning |
-|---------|-------------|
-| AI / LLM Applications | LLM Fine-tuning |
-| LangChain Agents | DevOps & Cloud-native Deployment |
-| RAG Systems | Advanced RAG Architectures |
-| Full-Stack (Python + Flask) | AI Agent System Design |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📫 Let's Connect
 
 <div align="center">
 
-[![elysianx138's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elysianx138&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-elysianx138-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elysianx138)
-[![Twitter](https://img.shields.io/badge/Twitter-@johnchenmOwn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnchenmOwn)
-[![Gmail](https://img.shields.io/badge/Email-elysianx138@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elysianx138@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-elysianx138-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elysianx138)
+[![Twitter](https://img.shields.io/badge/Twitter-@johnchenmOwn-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/johnchenmOwn)
+[![Email](https://img.shields.io/badge/Email-elysianx138@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:elysianx138@gmail.com)
 
 </div>
 
@@ -140,16 +91,6 @@ Claude Code Snippets
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-### ⭐ *If you love my projects, don't forget to star!* ⭐
-
-<!-- 🐍 Snake animation powered by Platane/snk — requires GitHub Action setup in elysianx138/elysianx138 -->
-<!-- See: https://github.com/Platane/snk -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elysianx138/elysianx138/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elysianx138/elysianx138/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/elysianx138/elysianx138/output/github-contribution-grid-snake.svg">
-</picture>
+<sub>Always learning, always shipping. ⭐ on a repo means a lot.</sub>
 
 </div>
