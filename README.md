@@ -43,7 +43,7 @@ Based in Hong Kong 🇭🇰 · Learning C++ and Linux
 | Open source contributions | Distributed systems & inference optimization |
 | my personal IP | Now I'm trying to write my blog about my learning journal or my thinking about my life |
 
-**If you want to konw more about me, please follow my blog: https://dev.to/elysianx138/ **
+**If you want to konw more about me, please follow my blog** : https://dev.to/elysianx138/
 
 ---
 
