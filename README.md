@@ -2,9 +2,9 @@
 
 # Hi, I'm elysianx 👋
 
-**CS Undergraduate · Open Source Contributor · AI Infra Learner**
+**CS Undergraduate · Open Source Contributor · C++ Learner · Writer**
 
-Based in Hong Kong 🇭🇰 · Building AI applications with Python & LangChain
+Based in Hong Kong 🇭🇰 · Learning C++ and Linux 
 
 </div>
 
@@ -19,7 +19,6 @@ Based in Hong Kong 🇭🇰 · Building AI applications with Python & LangChain
 | [NovaCode37/Prism-platform](https://github.com/NovaCode37/Prism-platform) | Add `/api/health` endpoint for uptime monitoring | ✅ Merged |
 | [TianciJ/RAG-CHAT](https://github.com/TianciJ/RAG-CHAT) | Fix `config.py` + sqlite checkpoint graph compatibility | ✅ Merged |
 | [helloalp/helloalp.github.io](https://github.com/helloalp/helloalp.github.io) | Add Docker support + rewrite README | ✅ Merged |
-| [MABIN-ship-it/-cc-smart-companion](https://github.com/MABIN-ship-it/-cc-smart-companion) | Fix bilingual README wording | 🟣 Open |
 
 > Currently hunting for `good first issue`s — docs, tests, and bug fixes all count. Every PR is a chance to learn from a real maintainer's review.
 
@@ -27,25 +26,12 @@ Based in Hong Kong 🇭🇰 · Building AI applications with Python & LangChain
 
 ## 🚀 Pinned Projects
 
-<div align="center">
-
-<a href="https://github.com/elysianx138/Chat_Agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elysianx138&repo=Chat_Agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/elysianx138/elysianx.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elysianx138&repo=elysianx.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/elysianx138/North-star-of-CS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elysianx138&repo=North-star-of-CS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" />
-</a>
-
-</div>
-
 | Project | What it is | Stack |
 |---------|-----------|-------|
 | **🤖 Chat_Agent** | RAG knowledge-base Q&A agent, deployed live on Railway | LangChain · FastAPI · Chroma · MCP |
 | **🌐 elysianx.github.io** | Full-stack personal site built from scratch | Python · Flask · HTML/CSS/JS |
 | **📚 North-star-of-CS** | My CS learning journal — C++, Redis, Docker, security, hands-on | C++ · Python · Redis · Docker |
+| **🐧 Linux-system-lab** | My C++ and Linux learning document - C++ and Linux | C++ · Linux |
 
 ---
 
@@ -53,9 +39,11 @@ Based in Hong Kong 🇭🇰 · Building AI applications with Python & LangChain
 
 | 🛠️ Building | 📖 Learning |
 |-------------|-------------|
-| AI / LLM applications | **AI Infra** — how LLMs actually run (vLLM, SGLang, llama.cpp) |
-| RAG systems & agents | Systems fundamentals — CSAPP, CUDA basics |
+| **🐧 Linux-system-lab**  | technology stack -- C++ and Linux |
 | Open source contributions | Distributed systems & inference optimization |
+| my personal IP | Now I'm trying to write my blog about my learning journal or my thinking about my life |
+
+**If you want to konw more about me, please follow my blog: https://dev.to/elysianx138/ **
 
 ---
 
